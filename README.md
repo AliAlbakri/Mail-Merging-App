@@ -1,0 +1,2 @@
+# Mail-Merging-App
+It is an automated mail tool that helps workers to send uniformly structured emails based on predefined characteristics. CVS files are used with tags to derive these characteristics. once you open the app, import the excel file(CVS file with the tags) and start filling the receivers info. a sample file is provided. this project has been developed using JAVA fx as well as some external libraries
